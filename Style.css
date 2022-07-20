@@ -1,0 +1,26 @@
+#puissance-grid{
+
+
+    width: 60%;
+    margin-left: auto;
+    text-align: center;
+    margin-right: auto;
+    border-radius: 70px;
+    justify-content: center;
+    background: blue;
+}
+#puissance-grid canvas{
+    width: 2cm;
+    height: 2cm;
+    text-align: center;
+    border: 2px blue solid;
+    border-radius: 2cm;
+    background-color: white;
+    cursor: pointer;
+    padding: 1vh;
+}
+
+.Playerpoint{
+    border: orange solid;
+    border-radius: 57cm;
+}
